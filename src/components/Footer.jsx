@@ -25,7 +25,7 @@ const Footer = () => {
     
   </nav>
   <nav>
-    <h6 className="footer-title text-white text-xl">Quick Links</h6>
+    <h6 className="footer-title text-white text-xl">Quick Link</h6>
     <li className="text-white"><a className="link link-hover">Home</a></li>
     <li className="text-white"><a className="link link-hover">Services</a></li>
     <li className="text-white"><a className="link link-hover">About</a></li>

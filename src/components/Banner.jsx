@@ -20,7 +20,7 @@ const Banner = ({handleClaimFreeCoin}) => {
     <div className="text-center">
       <h1 className=" text-4xl font-bold mb-4">Assemble Your Ultimate Dream 11 Cricket Team</h1>
       <p className="mb-5">
-      Beyond Boundaries Beyond Limits
+      Beyond Boundaries Beyond limits.
       </p>
       <button onClick={handleClaimFreeCoin} className="btn bg-[#E7FE29]">Claim Free Credit</button>
     </div>
