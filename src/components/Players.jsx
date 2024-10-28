@@ -9,9 +9,9 @@ const Players = ({handleToSelectPlayers}) => {
         fetch('../../public/players.json')
         .then(res => res.json())
         .then(data => setPlayers(data))
-    },[])
+    })
     return (
-        <div className="mb-28">
+        <div className="mb-28 p-2">
            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {
                
